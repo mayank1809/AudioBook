@@ -1,4 +1,4 @@
-### BookAI - Listen to Books with Enhanced Audio Processing
+## BookAI - Listen to Books with Enhanced Audio Processing
 
 ## Overview
 
